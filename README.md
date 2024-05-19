@@ -1,6 +1,6 @@
 # IoT-Grundlagen für Entwickler:innen – Elektronik-Basiswissen
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `IoT-Grundlagen für Entwickler:innen – Elektronik-Basiswissen`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][https://www.linkedin.com/learning/iot-grundlagen-fur-entwickler-innen-elektronik-basiswissen].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `IoT-Grundlagen für Entwickler:innen – Elektronik-Basiswissen`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![IoT-Grundlagen für Entwickler:innen – Elektronik-Basiswissen][lil-thumbnail-url]
 
@@ -20,3 +20,6 @@ Für alle, die sich mit dem Internet of Things (IoT) beschäftigen, sind Grundke
 _Technology Strategist_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lars-gregori) an.
+
+[lil-course-url]: https://www.linkedin.com/learning/iot-grundlagen-fur-entwickler-innen-elektronik-basiswissen
+[lil-thumbnail-url]: 
