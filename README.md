@@ -22,4 +22,4 @@ _Technology Strategist_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lars-gregori) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/iot-grundlagen-fur-entwickler-innen-elektronik-basiswissen
-[lil-thumbnail-url]: 
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2263002/2263002-1615802992433-16x9.jpg
